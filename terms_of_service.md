@@ -100,7 +100,7 @@ These Terms are governed by and construed in accordance with applicable law. Any
 
 ## 13. Contact
 
-If you have any questions or concerns about these Terms, please reach out via our official Discord support server or contact channel.
+If you have any questions or concerns about these Terms, please reach out via our [official Discord support server](https://discord.gg/kNGRTmEebV) or contact channel.
 
 ---
 
