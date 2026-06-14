@@ -102,7 +102,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 ## 10. Contact
 
-If you have any questions, concerns, or requests related to this Privacy Policy, please reach out via our official Discord support server or contact channel.
+If you have any questions, concerns, or requests related to this Privacy Policy, please reach out via our [official Discord support server](https://discord.gg/kNGRTmEebV) or contact channel.
 
 ---
 
